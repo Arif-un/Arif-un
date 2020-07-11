@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm currently working with a startup 🚀 company.
+Focused on building best product.
+
+<!-- [![HitCount](http://hits.dwyl.com/arif-un/arif-un.svg)](http://hits.dwyl.com/arif-un/arif-un) -->
+![Twitter Follow](https://img.shields.io/twitter/follow/arifoverclocker)
+
 
 <!--
 **Arif-un/Arif-un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
