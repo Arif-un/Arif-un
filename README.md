@@ -2,11 +2,7 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arif-un" alt="arif-un" /></a> </p>
-<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
-  <rect width="10" height="10">
-    <animate attributeName="rx" values="0;5;0" dur="10s" repeatCount="indefinite" />
-  </rect>
-</svg>
+
 - 🔭 I’m currently working on **asd**
 
 - 💬 Ask me about **Vanilla Javascript, React, PHP**
