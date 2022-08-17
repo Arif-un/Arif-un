@@ -1,1 +1,1 @@
-<h1 align="center">⚡</h1>
+<img src="./rainbow-troll-tripply-wake-awake-up.gif" />
