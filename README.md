@@ -1,1 +1,1 @@
-<img src="./rainbow-troll-tripply-wake-awake-up.gif" align="center" />
+<h1 align="center"><img src="./rainbow-troll-tripply-wake-awake-up.gif" /></h1>
