@@ -31,6 +31,6 @@
    </defs>
 
 
-   <rect  class="ax" width="100%" height="390" x="5" y="5" rx="16" ry="16"  stroke="url(#grd)" stroke-width="4" />
+   <rect  width="99%" height="390" x="5" y="5" rx="16" ry="16"  stroke="url(#grd)" stroke-width="4" />
    Sorry, your browser does not support inline SVG.
 </svg>
