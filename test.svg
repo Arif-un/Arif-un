@@ -1,14 +1,9 @@
-<svg width="100%" height="400" viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="400"  xmlns="http://www.w3.org/2000/svg">
    <style>
       .a {
          fill: red;
       }
 
-      .bg {
-         stroke: linear-gradient(90deg, #f43737, #14da4a);
-         stroke-width: 3px;
-         ;
-      }
 
       @media (prefers-color-scheme: dark) {
          .a {
@@ -21,8 +16,6 @@
    <defs>
       <linearGradient id="grd" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox"
          gradientTransform="translate(0 0)">
-         <!-- <stop id="ef0OdRDvXol2-stroke-0" offset="0%" stop-color="#f43737" />
-        <stop id="ef0OdRDvXol2-stroke-1" offset="100%" stop-color="#14da4a" /> -->
          <stop offset="0%" stop-color="#7A5FFF">
             <animate attributeName="stop-color" values="#ff70c3; #c870ff;#70acff;#70ffd2;#ff70c1" dur="4s"
                repeatCount="indefinite">
@@ -38,7 +31,6 @@
    </defs>
 
 
-   <!-- <rect width="800" height="400" rx="20" ry="20" fill="url(#grd)"/> -->
    <rect  class="a" width="100%" height="390" x="5" y="5" rx="16" ry="16"  stroke="url(#grd)" stroke-width="4" />
    Sorry, your browser does not support inline SVG.
 </svg>
