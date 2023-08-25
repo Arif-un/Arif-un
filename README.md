@@ -1,1 +1,1 @@
-<h1 align="center"><img src="./animate.gif" /></h1>
+<h1 align="center"><img src="./test.svg" /></h1>
