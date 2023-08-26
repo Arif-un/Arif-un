@@ -1,4 +1,4 @@
-<svg style="border:1px solid red" width="846" height="320" preserveAspectRatio="none"
+<svg width="846" height="320" preserveAspectRatio="none"
    xmlns="http://www.w3.org/2000/svg">
    <style>
     .fill-light {
@@ -27,7 +27,7 @@
       }
       
       .st-drk{
-         fill:rgb(255, 243, 196)
+         fill:rgb(196, 217, 255);
       }
 
       .drk-elm {
@@ -83,7 +83,7 @@
          }
 
          50% {
-            transform: scale(1.1) translate(0, 10px);
+            transform: scale(1.05) translate(0, 5px);
          }
 
          100% {
@@ -105,11 +105,11 @@
          }
    
          .fill-dark {
-            fill: rgb(255, 243, 196);
+            fill: rgb(196, 217, 255);
          }
    
          .stk-light {
-            stroke: rgb(255, 243, 196);
+            stroke:rgb(196, 217, 255);
          }
    
          .stk-dark {
@@ -181,7 +181,7 @@
    </defs>
 
    <text x="20" y="35" class="subtext light-elm">Do you use your code editor in ☀️ LIGHT mode also?</text>
-   <text x="20" y="35" class="subtext st-drk drk-elm">You're browsing GitHub in 🌑 DARK mode right ?</text>
+   <text x="20" y="35" class="subtext st-drk drk-elm">You like GitHub in 🌑 DARK mode right ?</text>
 
 
    <image class="sun light-elm"
