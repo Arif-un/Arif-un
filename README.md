@@ -1,1 +1,1 @@
-<h1 align="center"><img src="./test.svg" /></h1>
+<p align="center"><img src="./cover-optimized.svg" /></p>
