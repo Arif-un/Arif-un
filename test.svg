@@ -1,13 +1,30 @@
-<svg width="846" height="400" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+<svg style="border:1px solid red" width="846" height="400" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
    <style>
       .a {
          fill: red;
       }
 
-      .bg{
+      .bg {
          width: 100%;
       }
 
+      .ast-light{
+         animation: float 3s ease-in-out infinite;
+      }
+
+      @keyframes float {
+         0% {
+            transform: translate(0, 0px);
+         }
+
+         50% {
+            transform: translate(0, 10px);
+         }
+
+         100% {
+            transform: translate(0, 0px);
+         }
+      }
 
       @media (prefers-color-scheme: dark) {
          .a {
@@ -35,6 +52,12 @@
    </defs>
 
 
-   <rect class="bg" width="100%" height="390" x="5" y="5" rx="16" ry="16" stroke="url(#grd)" stroke-width="4" />
-   Sorry, your browser does not support inline SVG.
+   <!-- <rect class="bg" width="100%" height="390" x="5" y="5" rx="16" ry="16" stroke="url(#grd)" stroke-width="4" /> -->
+   <image 
+   class="ast-light"
+   width="500" 
+   height="250" 
+   href="./ast light.webp" 
+ />
+   
 </svg>
