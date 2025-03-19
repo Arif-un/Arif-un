@@ -1,1 +1,1 @@
-<p align="center"><img src="./cover-optimized.svvg" /></p>
+<p align="center"><img src="./cover-optimized.svg" /></p>
