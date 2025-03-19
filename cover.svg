@@ -180,8 +180,8 @@
       </filter>
    </defs>
 
-   <text x="20" y="35" class="subtext light-elm">Do you use your code editor in ☀️ LIGHT mode also?</text>
-   <text x="20" y="35" class="subtext st-drk drk-elm">You like GitHub in 🌑 DARK mode right ?</text>
+   <text x="20" y="35" class="subtext light-elm">Are you feeling bright today, or just code in light mode?</text>
+   <text x="20" y="35" class="subtext st-drk drk-elm">Dark mode: Because sometimes the code looks better under moonlight.</text>
 
 
    <image class="sun light-elm"
